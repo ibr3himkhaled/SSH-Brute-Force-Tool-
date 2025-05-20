@@ -61,3 +61,5 @@ Enhance logging (save results to a file).
 📜 License
 
 MIT License - Free for ethical use.
+
+🚀 Happy (ethical) hacking! Report bugs & contribute. 🐛🔧
